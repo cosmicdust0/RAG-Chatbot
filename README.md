@@ -82,6 +82,6 @@ A RAG Q&A application to chat with PDF files, also containing images and tables.
 
 Institution - KLE Technological University
 
-- Pranav S Bhat - 8861668850 - 01fe21bcs230@kletech.ac.in
 - Ravishankar B - 6363663113 - 01fe21bcs177@kletech.ac.in
+- Pranav S Bhat - 8861668850 - 01fe21bcs230@kletech.ac.in
 - Kushalgouda S Patil - 8105784976 - kspatil.ksp@gmail.com
