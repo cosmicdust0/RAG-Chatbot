@@ -84,6 +84,9 @@ Sample images
 ![image](https://github.com/user-attachments/assets/3d685faa-74fb-4b6c-9410-ab06755f866e)
 ![image](https://github.com/user-attachments/assets/6048a914-7635-4520-b0f5-edaebd41f0a8)
 ![image](https://github.com/user-attachments/assets/c181a9a6-4fb7-419f-bdd6-d9a424fceb6e)
+# Architecture 
+![image](https://github.com/user-attachments/assets/aa135f18-fe3e-4ce8-b8f7-60124cfe080e)
+
 
 
 
